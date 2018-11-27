@@ -1,0 +1,67 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/tmp/d-1161112-4352-1ytg8j8/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-1161112-4352-1ytg8j8/package.tgz",
+        "spec": "/tmp/d-1161112-4352-1ytg8j8/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-1161112-4352-1o7pwa5"
+    ]
+  ],
+  "_from": "https://www.atom.io/api/packages/promodj-pane/versions/2.0.0/tarball",
+  "_id": "promodj-pane@2.0.0",
+  "_inBundle": false,
+  "_inCache": true,
+  "_installable": true,
+  "_integrity": "sha512-Ueshzpr7Mw0hEXL7fUuAoVXJDNWMirrnGUtvWgaXPLaTVz5TPbKyoTfIv1r+9aN0+b1peJuLXnNea0N9TXXyTw==",
+  "_location": "/promodj-pane",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/promodj-pane/versions/2.0.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/promodj-pane/versions/2.0.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/promodj-pane/versions/2.0.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/promodj-pane/versions/2.0.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/promodj-pane/versions/2.0.0/tarball",
+  "_shasum": "d358d9f7da063146b3c90f974e1dc682446b8996",
+  "_shrinkwrap": null,
+  "_spec": "https://www.atom.io/api/packages/promodj-pane/versions/2.0.0/tarball",
+  "_where": "/tmp/apm-install-dir-1181027-21704-1scltse.jaagh",
+  "activationCommands": {
+    "atom-workspace": "promodj-pane:toggle"
+  },
+  "bugs": {
+    "url": "https://github.com/alexandruionascu/promodj-pane/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "atom-space-pen-views": "2.1.0"
+  },
+  "deprecated": false,
+  "description": "Youtube pane embedded into atom editor. Watch videos or play music from YouTube.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/alexandruionascu/promodj-pane#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/promodj-pane",
+  "name": "promodj-pane",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandruionascu/promodj-pane.git"
+  },
+  "version": "2.0.0"
+}

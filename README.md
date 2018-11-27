@@ -1,6 +1,7 @@
 # PromoDJ Pane Package for Atom
 
 With this package you can play tons of electronic music from the world's best DJs easily right into Atom editor.
+Listen to the music while coding!
 
 ### Ctrl + Alt + P to show/hide the PromoDJ Pane
 

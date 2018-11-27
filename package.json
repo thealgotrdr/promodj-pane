@@ -1,5 +1,4 @@
 {
-
   "bugs": {
     "url": "https://github.com/thealgotrdr/promodj-pane/issues"
   },
@@ -23,5 +22,5 @@
     "type": "git",
     "url": "https://github.com/thealgotrdr/promodj-pane.git"
   },
-  "version": "1.1.0"
+  "version": "1.2.0"
 }

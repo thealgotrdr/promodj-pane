@@ -53,7 +53,7 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "homepage": "https://github.com/alexandruionascu/promodj-pane#readme",
+  "homepage": "https://github.com/thealgotrdr/promodj-pane",
   "keywords": [],
   "license": "MIT",
   "main": "./lib/promodj-pane",
@@ -61,7 +61,7 @@
   "optionalDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexandruionascu/promodj-pane.git"
+    "url": "git+https://github.com/thealgotrdr/promodj-pane.git"
   },
   "version": "2.0.0"
 }
